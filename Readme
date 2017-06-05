@@ -1,0 +1,5 @@
+Created by SUSHANTH AVVARU
+
+Application consists of storing data using sharedpreferences permanently
+Used fragemtns to display list views.
+Used Assets to store data and to populate the list view.
